@@ -6,7 +6,7 @@ Need ideas for your videos? The "AI YouTube Idea Generator" is an application th
 
 - **Prompt-Based Title Suggestions:** Input your content idea, and the app will offer several potential titles for your YouTube videos.
 - **Tag Generation:** The app generates a list of tags to optimize your video's visibility and reach.
-- **Made with React (Vite) and CSS:** Built using modern web development technologies to ensure a smooth and responsive user experience.
+- **Built with React (Vite), Tailwind CSS, and CSS:** Utilizing modern web development technologies to ensure a smooth and responsive user experience.
 
 ## Installation
 
@@ -27,7 +27,8 @@ Need ideas for your videos? The "AI YouTube Idea Generator" is an application th
 
 - **React**: JavaScript library for building user interfaces.
 - **Vite**: A fast, opinionated web dev build tool that serves your code via native ES Module imports during development.
-- **CSS**: Styling to ensure an engaging and intuitive user interface.
+- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
+- **CSS**: Additional styling to ensure an engaging and intuitive user interface.
 
 ## Support and Contributions
 
